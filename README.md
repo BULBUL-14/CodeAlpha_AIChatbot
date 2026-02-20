@@ -48,6 +48,3 @@ The AI Chatbot is a console-based Java application that:
 - Real-time System Interaction
 
 
-## ▶️ How to Run
-
-### Step 1: Compile the program
